@@ -1,5 +1,6 @@
 # chainch
 Fork of chain fith theme and details from cmorrell and scorphish themes
+
 A thin, classy theme composed of a chain of information.
 
 
