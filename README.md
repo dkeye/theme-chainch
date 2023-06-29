@@ -1,15 +1,6 @@
-# chain
+# chainch
+Fork of chain fith theme and details from cmorrell and scorphish themes
 A thin, classy theme composed of a chain of information.
-
-[![asciicast](https://asciinema.org/a/129cyab1j0ou83fhaofg8hs2n.png)](https://asciinema.org/a/129cyab1j0ou83fhaofg8hs2n)
-
-
-## Installation
-Install with [Oh My Fish][omf]:
-
-```fish
-$ omf install chain
-```
 
 
 ## Features
