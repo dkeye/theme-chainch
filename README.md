@@ -86,9 +86,6 @@ The glyphs used in the default links can be customized using global variables. H
 
 
 ## License
-[MIT][mit] © [coderstephen][author] et [al][contributors]
+[MIT][mit]
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         https://github.com/coderstephen
-[contributors]:   https://github.com/coderstephen/theme-chain/graphs/contributors
-[omf]:            https://github.com/oh-my-fish/oh-my-fish
